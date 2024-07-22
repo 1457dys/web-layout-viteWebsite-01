@@ -1,0 +1,6 @@
+# 將所有文本文件統一為 LF 作為行結尾符號
+* text=auto
+
+# 對特定文件類型設置行結尾符號為 LF
+*.scss text eol=lf
+*.json text eol=lf
